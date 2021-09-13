@@ -7,9 +7,7 @@
       <image-container>
         <img class="absolute md:static inset-0 z-10" src="../assets/tv.png" alt="TV" />
         <div class="md:absolute w-full h-full z-20 top-0 left-0 transform">
-          <video class="video w-full h-full" autoplay playsinline muted loop>
-            <source src="../assets/video-tv.m4v" type="video/mp4" />
-          </video>
+          <img class="video w-full h-full" src="../assets/video-tv-0819.gif" alt="Gif" />
         </div>
       </image-container>
     </template>
