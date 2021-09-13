@@ -1,0 +1,9 @@
+@import url('./assets/netflix-sans/style.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  min-width: 320px;
+}
