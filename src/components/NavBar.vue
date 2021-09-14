@@ -20,7 +20,8 @@ import Button from '../shared/Button.vue'
 const router = useRouter()
 
 function gotoLogin () {
-  router.push('/login')
+  // router.push('/login')
+    console.log('This features is on development...')
 } 
 </script>
 
